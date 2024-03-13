@@ -1,0 +1,14 @@
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.AssemblyInfo.cs
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.csproj.CoreCompileInputs.cache
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\bin\Debug\net8.0\SolidPriciples.exe
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\bin\Debug\net8.0\SolidPriciples.deps.json
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\bin\Debug\net8.0\SolidPriciples.runtimeconfig.json
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\bin\Debug\net8.0\SolidPriciples.dll
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\bin\Debug\net8.0\SolidPriciples.pdb
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.dll
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\refint\SolidPriciples.dll
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.pdb
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\SolidPriciples.genruntimeconfig.cache
+C:\Users\billu\source\repos\SolidPriciples\SolidPriciples\obj\Debug\net8.0\ref\SolidPriciples.dll
